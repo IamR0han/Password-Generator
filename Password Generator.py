@@ -18,4 +18,4 @@ for paswrd in range(number)
      passwords += random.choice(chars)
     print(passwords)
 
-Print("Thank You!"
+Print("Thank You!")
